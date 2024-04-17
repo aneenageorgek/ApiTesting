@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd7dcb98-0bc8-4b42-8385-cc863bc0f353" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DB-backups/qadb-1.1.0.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../DB-backups/qadb-1.1.0.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DB-backups/qadb-1.2.1_2020-1-28.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../DB-backups/qadb-1.2.1_2020-1-28.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jmeter/.idea/Jmeter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jmeter/.idea/Jmeter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jmeter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jmeter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jmeter/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jmeter/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jmeter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jmeter/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jmeter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jmeter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jmeter/Radius_server_performance.jmx" beforeDir="false" afterPath="$PROJECT_DIR$/../Jmeter/Radius_server_performance.jmx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jmeter/qa-performance.jmx" beforeDir="false" afterPath="$PROJECT_DIR$/../Jmeter/qa-performance.jmx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/TenantNetwork.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/TenantNetwork.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/joinapi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/joinapi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/regeression-suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/regeression-suite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/assets/Assets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/assets/Assets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/assets/PathAssets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/assets/PathAssets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/assets/TestDataAssets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/assets/TestDataAssets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/cl/PathProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/cl/PathProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/cl/Property.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/cl/Property.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/cl/TestDataProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/cl/TestDataProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/common/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/common/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/common/CommonData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/common/CommonData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/constants/APIMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/constants/APIMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/constants/Authentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/constants/Authentication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/constants/Paths.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/constants/Paths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/constants/StatusCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/constants/StatusCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/constants/TestNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/constants/TestNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/dc/DataCenters.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/dc/DataCenters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/dc/PathDataCenters.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/dc/PathDataCenters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/dc/TestDataDataCenters.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/dc/TestDataDataCenters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/endUsers/EndPointsUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/endUsers/EndPointsUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/endUsers/EndUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/endUsers/EndUsers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/endUsers/PathEndUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/endUsers/PathEndUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/endUsers/TestDataEndUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/endUsers/TestDataEndUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/members/EndPointsMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/members/EndPointsMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/members/Members.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/members/Members.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/members/PathMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/members/PathMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/members/TestDataMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/eul/members/TestDataMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/performanceTestsPreparation/NetworkEndPointsCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/performanceTestsPreparation/NetworkEndPointsCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/performanceTestsPreparation/NetworkTenantCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/performanceTestsPreparation/NetworkTenantCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/performanceTestsPreparation/TenantCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/performanceTestsPreparation/TenantCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tenants/PathTenant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tenants/PathTenant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tenants/Tenant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tenants/Tenant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tenants/Tenants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tenants/Tenants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tenants/TestDataTenant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tenants/TestDataTenant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/ap/AP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/ap/AP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/ap/EndPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/ap/EndPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/ap/PathAP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/ap/PathAP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/ap/TestDataAP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/ap/TestDataAP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/endPoints/EndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/endPoints/EndPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/endPoints/EndPointsForEndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/endPoints/EndPointsForEndPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/endPoints/PathEndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/endPoints/PathEndPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/endPoints/TestDataEndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/endPoints/TestDataEndPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/network/EndPointsNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/network/EndPointsNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/network/Network.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/network/Network.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/network/PathNetworks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/network/PathNetworks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/network/TestDataNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/network/TestDataNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/networkEndPoint/EndPointsNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/networkEndPoint/EndPointsNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/networkEndPoint/NetworkEndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/networkEndPoint/NetworkEndPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/networkEndPoint/TestDataNetworkEndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/networkEndPoint/TestDataNetworkEndPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/networkTenant/EndPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/networkTenant/EndPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/networkTenant/NetworkTenant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/networkTenant/NetworkTenant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/networkTenant/PathNetworkTenant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/networkTenant/PathNetworkTenant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/networkTenant/TestDataNetworkTenant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/src/test/java/com/joinapi/tnl/networkTenant/TestDataNetworkTenant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T14-14-46_816-jvmRun1.dump" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T14-14-46_816-jvmRun1.dump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T14-14-46_816-jvmRun1.dumpstream" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T14-14-46_816-jvmRun1.dumpstream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T14-18-19_038-jvmRun1.dump" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T14-18-19_038-jvmRun1.dump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T14-18-19_038-jvmRun1.dumpstream" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T14-18-19_038-jvmRun1.dumpstream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T15-18-15_976-jvmRun1.dump" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T15-18-15_976-jvmRun1.dump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T15-18-15_976-jvmRun1.dumpstream" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T15-18-15_976-jvmRun1.dumpstream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T15-19-04_684-jvmRun1.dump" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T15-19-04_684-jvmRun1.dump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T15-19-04_684-jvmRun1.dumpstream" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-03T15-19-04_684-jvmRun1.dumpstream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-30T15-23-29_256-jvmRun1.dump" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-30T15-23-29_256-jvmRun1.dump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-30T15-23-29_256-jvmRun1.dumpstream" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/2020-01-30T15-23-29_256-jvmRun1.dumpstream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/Command line suite/Command line test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/Command line suite/Command line test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/Command line suite/Command line test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/Command line suite/Command line test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/Regression Suite for API/Admin Portal.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/Regression Suite for API/Admin Portal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/Regression Suite for API/Admin Portal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/Regression Suite for API/Admin Portal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/Regression Suite for API/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/Regression Suite for API/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/RegressionSuiteAPI/Admin Portal.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/RegressionSuiteAPI/Admin Portal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/RegressionSuiteAPI/Admin Portal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/RegressionSuiteAPI/Admin Portal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/RegressionSuiteAPI/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/RegressionSuiteAPI/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.assets.Assets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.assets.Assets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.dc.DataCenters.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.dc.DataCenters.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.eul.endUsers.EndUsers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.eul.endUsers.EndUsers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.tenants.Tenant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.tenants.Tenant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.tenants.Tenants.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.tenants.Tenants.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.tnl.Network.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.tnl.Network.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.tnl.ap.AP.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.tnl.ap.AP.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.tnl.endPoints.EndPoint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.tnl.endPoints.EndPoint.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.tnl.network.Network.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.tnl.network.Network.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.users.Users.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/junitreports/TEST-com.joinapi.users.Users.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Command line suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Command line suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Command line suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Command line suite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Command line suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Command line suite/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Command line suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Command line suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Command line suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Command line suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Command line suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Command line suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Command line suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Command line suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Regression Suite for API/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Regression Suite for API/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Regression Suite for API/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Regression Suite for API/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Regression Suite for API/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Regression Suite for API/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Regression Suite for API/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Regression Suite for API/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Regression Suite for API/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Regression Suite for API/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Regression Suite for API/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Regression Suite for API/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Regression Suite for API/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Regression Suite for API/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/RegressionSuiteAPI/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Surefire suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Surefire suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Surefire suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Surefire suite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Surefire suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Surefire suite/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Surefire suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Surefire suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Surefire suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Surefire suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/Surefire suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/testng-reports.css" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/testng.css" beforeDir="false" afterPath="$PROJECT_DIR$/../JoinAPI/target/surefire-reports/testng.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/Network-UI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/Network-UI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/AddAccessPointPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/AddAccessPointPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/AddDatacenterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/AddDatacenterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/AddFirstPropertyAdminPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/AddFirstPropertyAdminPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/AddNetworkEndpointPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/AddNetworkEndpointPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/AddNetworkPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/AddNetworkPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/AddPropertyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/AddPropertyPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/AddTenantPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/AddTenantPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/ApListPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/ApListPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/DeleteAccessPointPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/DeleteAccessPointPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/DeleteNetworkPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/DeleteNetworkPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/EditAccessPointPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/EditAccessPointPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/EditDcPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/EditDcPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/EditNetworkPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/EditNetworkPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/EditPropertyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/EditPropertyPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/PropertyListPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/PropertyListPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/SwitchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/SwitchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/TenantDetachNetworkPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/TenantDetachNetworkPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/TenantsViewAttachNetworkPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/TenantsViewAttachNetworkPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/ViewApDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/ViewApDetailsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/ViewDcDetailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/ViewDcDetailPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/ViewNetworkPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/ViewNetworkPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/ViewSwitchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/main/java/com/join/networkui/pages/ViewSwitchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/Output_Test/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/Output_Test/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/RegressionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/RegressionTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/SmokeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/SmokeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/AddAccessPointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/AddAccessPointTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/AddDatacenterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/AddDatacenterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/AddNetworkEndPointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/AddNetworkEndPointTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/AddPropertyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/AddPropertyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/AddTenantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/AddTenantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/ApListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/ApListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/DataPropviderLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/DataPropviderLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/DeleteAccessPointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/DeleteAccessPointTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/DeleteNetworkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/DeleteNetworkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/EditAPTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/EditAPTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/EditDCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/EditDCTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/EditNetworkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/EditNetworkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/EditPropertyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/EditPropertyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/EndToEndTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/EndToEndTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/PropertyFillterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/PropertyFillterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/SwitchListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/SwitchListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/TenantDetachNetworkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/TenantDetachNetworkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/TenantViewAttachnetworkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/TenantViewAttachnetworkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/ViewApDetailsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/ViewApDetailsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/ViewDcDetailsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/ViewDcDetailsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/ViewNetworkDetailsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/ViewNetworkDetailsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/ViewSwitchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/src/test/java/com/join/networkui/tests/ViewSwitchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/classes/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/classes/classes/surefire/surefire7966091452664951685tmp" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/classes/classes/surefire/surefire7966091452664951685tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/classes/classes/surefire/surefire_09971473154773895380tmp" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/classes/classes/surefire/surefire_09971473154773895380tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/classes/surefire/surefire7966091452664951685tmp" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/classes/surefire/surefire7966091452664951685tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/classes/surefire/surefire_09971473154773895380tmp" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/classes/surefire/surefire_09971473154773895380tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/surefire/surefire7966091452664951685tmp" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/surefire/surefire7966091452664951685tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/classes/surefire/surefire_09971473154773895380tmp" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/classes/surefire/surefire_09971473154773895380tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/surefire/surefire7966091452664951685tmp" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/surefire/surefire7966091452664951685tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Network-UI/target/surefire/surefire_09971473154773895380tmp" beforeDir="false" afterPath="$PROJECT_DIR$/../Network-UI/target/surefire/surefire_09971473154773895380tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerformanceTestingRadius/configUsersProfiles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PerformanceTestingRadius/configUsersProfiles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerformanceTestingRadius/createBatFiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PerformanceTestingRadius/createBatFiles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerformanceTestingRadius/parse_logs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PerformanceTestingRadius/parse_logs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerformanceTestingRadius/run_create_batch_files_script.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../PerformanceTestingRadius/run_create_batch_files_script.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerformanceTestingRadius/run_parse_logs_file.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../PerformanceTestingRadius/run_parse_logs_file.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/Plan-B.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/Plan-B.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/newtest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/newtest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/AddFirstPropertyAdminPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/AddFirstPropertyAdminPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/AddMemberPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/AddMemberPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/AddPropertyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/AddPropertyPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/AddtenantPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/AddtenantPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/EditMemberDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/EditMemberDetailsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/EditPropertyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/EditPropertyPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/EditTenantPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/EditTenantPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/ProfilePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/ProfilePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/SettingsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/SettingsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/ViewTenantDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/ViewTenantDetailsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/ViewmemberPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/main/java/com/join/planb/pages/ViewmemberPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/main/main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/Output_Test/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/Output_Test/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/chrome_testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/chrome_testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/AddMemberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/AddMemberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/AddPropertyBrandingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/AddPropertyBrandingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/AddPropertyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/AddPropertyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/AddTenantBrandingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/AddTenantBrandingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/AddTenantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/AddTenantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/AddmemberUsingExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/AddmemberUsingExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/AdminForMulitipleTenantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/AdminForMulitipleTenantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/CommercialPropertyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/CommercialPropertyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/DataproviderLoginCredentials.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/DataproviderLoginCredentials.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/EditMemberDetailsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/EditMemberDetailsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/EditTenantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/EditTenantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/EditpropertyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/EditpropertyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/EndToEndTestChrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/EndToEndTestChrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/EndToEndTestFirefox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/EndToEndTestFirefox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/FlexPropertyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/FlexPropertyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/ForgotPasswordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/ForgotPasswordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/MemberCapabilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/MemberCapabilityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/PasswordSettingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/PasswordSettingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/ProfileEditTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/ProfileEditTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/TenantCapabilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/TenantCapabilityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/TenantDeactivatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/TenantDeactivatTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/ViewMembersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/com/joindigital/planb/test/ViewMembersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/firefox_testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/firefox_testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/src/test/java/smoke_testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/src/test/java/smoke_testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/Test-method Suite/Smoke Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/Test-method Suite/Smoke Test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/Test-method Suite/Smoke Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/Test-method Suite/Smoke Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/Test-method Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/Test-method Suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/junitreports/TEST-com.joindigital.planb.test.EndToEndTestChrome.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/junitreports/TEST-com.joindigital.planb.test.EndToEndTestChrome.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/Test-method Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/testng-reports.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/testng.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Plan-B/target/surefire-reports/testng.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PostmanAPI/ops.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PostmanAPI/ops.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PostmanAPI/ops_env.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PostmanAPI/ops_env.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/scenario.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/scenario.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/base/TestConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/base/TestConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/AccessPointData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/AccessPointData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/AddPropertyData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/AddPropertyData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/CapabilityData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/CapabilityData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/DataCenterData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/DataCenterData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/FdbData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/FdbData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/InviteData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/InviteData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/NetworkData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/NetworkData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/SwitchData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/SwitchData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/UsersData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/dataprovider/UsersData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/ApJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/ApJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/CapabilityJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/CapabilityJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/DcJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/DcJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/FdbJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/FdbJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/InviteJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/InviteJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/NetworkJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/NetworkJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/ResultJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/ResultJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/SwitchJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/SwitchJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/TenantJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/TenantJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/UserJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/json/UserJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/pom/Loginpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/pom/Loginpage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/scenario/EndToEndScenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/scenario/EndToEndScenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/tests/AccessPointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/tests/AccessPointTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/tests/DcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/tests/DcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/tests/NetworkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/tests/NetworkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/tests/SwitchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/tests/SwitchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/tests/TenantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/tests/TenantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/tests/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/tests/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/validator/ApResponseValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/validator/ApResponseValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/validator/BaseValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/validator/BaseValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/validator/DcTestValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/validator/DcTestValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/validator/NetworkTestValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/validator/NetworkTestValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/validator/TenantTestValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/src/test/java/com/joindigital/apitests/validator/TenantTestValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/test_output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/test_output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiautomation/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiautomation/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2W2UJw0ErPHprk7lYeyD0BLO37U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="TestNG.ApiInterviewQ1">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiInterviewQ1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiInterviewQ1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTestcase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiTestcase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetApi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetApi" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetApi.getRequest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetApi" />
+      <option name="METHOD_NAME" value="getRequest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetResposeValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetResposeValidation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ApiInterviewQ1" />
+        <item itemvalue="TestNG.ApiTestcase" />
+        <item itemvalue="TestNG.GetResposeValidation" />
+        <item itemvalue="TestNG.GetApi" />
+        <item itemvalue="TestNG.GetApi.getRequest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd7dcb98-0bc8-4b42-8385-cc863bc0f353" name="Default Changelist" comment="" />
+      <created>1695930099443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695930099443</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="23" key="#Project_Structure" timestamp="1695930273500">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="23" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1695930273500" />
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom" timestamp="1699933246445">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="312" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1695941205554" />
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1699933246445" />
+    <state width="1398" height="216" key="GridCell.Tab.0.center" timestamp="1699933246445">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="312" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1695941205553" />
+    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1699933246445" />
+    <state width="1398" height="216" key="GridCell.Tab.0.left" timestamp="1699933246444">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="312" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1695941205552" />
+    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1699933246444" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right" timestamp="1699933246445">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="312" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1695941205553" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1699933246445" />
+    <state x="258" y="87" key="Maven.ArtifactSearchDialog" timestamp="1695930233827">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="258" y="87" key="Maven.ArtifactSearchDialog/0.23.1440.877@0.23.1440.877" timestamp="1695930233827" />
+    <state x="114" y="88" key="new project wizard" timestamp="1696877961428">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="114" y="88" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1696877961428" />
+  </component>
+</project>
